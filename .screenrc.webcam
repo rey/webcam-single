@@ -1,0 +1,2 @@
+# Create a new window called `CAM` and start the `webcam` process using the `.webcamrc` config file
+screen -t "CAM" sh -c "cd ~/ && webcam"
